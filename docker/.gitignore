@@ -1,0 +1,17 @@
+# Ignores gradle cache directory
+.gradle
+
+# Ignores gradle output directory
+build
+
+# Ignores IntelliJ IDEA output directory
+out
+
+# Ignores IntelliJ IDEA configuration directory
+.idea
+
+# Ignores IntelliJ IDEA project configuration file
+*.iml
+
+# Ignores log file
+*.log
